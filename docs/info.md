@@ -17,4 +17,4 @@ I haven't changed this
 
 ## External hardware
 
-I haven't changed this
+I haven't changed
